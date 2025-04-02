@@ -34,7 +34,7 @@
     "tailwindcss": "^3.3.0",
     "typescript": "^5"
   }
-"homepage": "https://<your-username>.github.io/<your-repo-name>",
+"homepage": "https://<Adi9821>.github.io/<bhukh_booster>",
 "scripts": {
   "predeploy": "npm run build",
   "deploy": "gh-pages -d build"
